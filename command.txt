@@ -1,0 +1,16 @@
+git config --global user.name "sahla"
+
+git config --global user.email "sahlats03@gmail.com"
+
+git config --list
+
+git add -A (to add untracked file into staging area)
+
+git init (to initialize)
+
+git commit -m ("to add initial message")
+
+git status ( to list untracked files)
+
+git log 
+
