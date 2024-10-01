@@ -14,3 +14,6 @@ git status ( to list untracked files)
 
 git log 
 
+git checkout
+
+git checkout master
