@@ -17,3 +17,8 @@ git log
 git checkout
 
 git checkout master
+
+git remote add remote_name remote_path ()
+
+
+git push remote_name branch_name
